@@ -1,7 +1,7 @@
 # Short Link
 
-This is an application that allows you to shorten URLs and share them.
+This is a Link shortener built on Meteor and React. It allows you to shorten URLs and share them.
 
-## Authors
+## Author
 
 David Ponces
