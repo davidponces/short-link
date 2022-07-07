@@ -13,7 +13,7 @@
     "history": "^4.7.2",
     "ipdata": "^1.1.2",
     "meteor-node-stubs": "^0.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "prop-types": "^15.7.2",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
